@@ -1,4 +1,4 @@
-# flutter_app_pms
+# flutter_app_sms
 
 A new Flutter application.
 
