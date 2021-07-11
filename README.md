@@ -1,5 +1,9 @@
 # flutter_app_sms
 
+welcome my project
+
+Hello my name is Yan Rithy.
+
 A new Flutter application.
 
 ## Getting Started
