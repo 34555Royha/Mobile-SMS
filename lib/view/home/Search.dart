@@ -51,7 +51,7 @@ class _MenuSearchState extends State<MenuSearch>
       appBar: _buildAppBar,
       // drawer: _buildNavBar,
     );
-  }
+        }
 
   
   //Local Method
