@@ -62,7 +62,7 @@ class ApiService {
     var x = await http.get(Uri.parse(url), headers: {
       // "Accept": "application/json",
       "Content-Type": "application/json",
-      "Authorization": "Basic dmluYToxMjM=",
+      "Authorization": await getApiKey(),
     });
 
 
